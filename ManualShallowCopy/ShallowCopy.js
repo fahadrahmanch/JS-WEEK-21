@@ -13,3 +13,4 @@ shallowCopy.name='adhil'
 shallowCopy.address.place='malappuram'
 console.log("orginal object",obj)
 console.log("shallow object",shallowCopy)
+
